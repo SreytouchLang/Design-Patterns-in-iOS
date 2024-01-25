@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='01-Observer'/>
+        <page name='02-Memento'/>
+        <page name='03-Strategy'/>
+        <page name='04-Command'/>
+        <page name='05-Chain-of-Responsibility'/>
+        <page name='06-State'/>
+        <page name='07-Template Method'/>
+        <page name='08-Interpreter'/>
+        <page name='09-Visitor'/>
+    </pages>
+</playground>
